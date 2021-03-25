@@ -10,8 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.15.4",
-    "mongoose": "^4.11.7",
-    "next": "^4.2.3",
+    "mongoose": "^5.12.2",
+    "next": "^5.0.0",
     "node-forge": "^0.7.1",
     "node-rsa": "^0.4.2",
     "react": "^15.6.1",
