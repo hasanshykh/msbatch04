@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "axios": "^0.18.1",
+    "axios": "^0.20.0",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.17.2",
     "cookie-parser": "^1.4.3",
@@ -13,7 +13,7 @@
     "express-session": "^1.15.5",
     "fs": "0.0.1-security",
     "mongoose": "^4.11.5",
-    "next": "^4.2.3",
+    "next": "^5.0.0",
     "node-rsa": "^0.4.2",
     "passport": "^0.3.2",
     "passport-local": "^1.0.0",
