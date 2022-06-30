@@ -15,7 +15,7 @@
     "mongoose": "^4.11.5",
     "next": "^4.2.3",
     "node-rsa": "^0.4.2",
-    "passport": "^0.3.2",
+    "passport": "^0.6.0",
     "passport-local": "^1.0.0",
     "react": "^15.6.1",
     "react-dom": "^15.6.1"
